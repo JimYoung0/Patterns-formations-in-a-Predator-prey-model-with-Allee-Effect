@@ -1,13 +1,5 @@
 # Patterns Formations in a Predator-prey Model with Allee Effect
 
-## Collaborators
-- Jiaao Li (20215282)
-- Kaichen Zhao (20215390)
-- Rong Xue (20215372)
-- Xianan Yang (20217178)
-- Yang Chen (20217061)
-- Yudi Tian (20216964)
-
 ## Abstract
 
 The study of patterns formations is a central issue in both biology and mathematics (Murray,1993). In this report, we focus on the pattern formation in a predator-prey model, especially the reaction-diffusion predator-prey model with Allee effect. We study whether the model can produce Turing patterns and use mathematical methods to obtain the results. We also use some computational tools to draw images.
